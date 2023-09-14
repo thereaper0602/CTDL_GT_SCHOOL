@@ -1,0 +1,5 @@
+4
+123,New York,300
+234,Los angeles,200
+345,Chicago,100
+456,Memphis,500

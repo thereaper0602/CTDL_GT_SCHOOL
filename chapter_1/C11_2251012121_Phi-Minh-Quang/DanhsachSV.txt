@@ -1,0 +1,5 @@
+2254234351,Ly Minh Nhat,2004,331 Thu Duc,Nam,8.2
+2251012136,Mai Chi Ton,2004,254 Le Van Tho,Nam,9.6
+1313111144,Ha Phuong,2004,Hong Ngu,Nu,9
+3251012136,Mai Tran Que Moc,2004,254 Le Van Tho,Nam,9.6
+4141515325,A Minh Quang,2005,Binh Thanh,Nam,8.8
